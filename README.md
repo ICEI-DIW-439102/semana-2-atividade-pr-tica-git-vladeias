@@ -8,8 +8,8 @@
 
 ### Print da Tela inspeção de conexão:
 Print da inspeção de conexão:
-<img src='./print.jpg'>
+<img src='./imagens/print.jpg'>
 
 ### Print da Tela da página index.html
 Print do resultado do index.html:
-<img src='./print2.jpg'>
+<img src='./imagens/print2.jpg'>
